@@ -91,7 +91,6 @@ Here is an example of how to use it:
 | baseline-mfc     	| 0.223  	|
 | venses-itgetarun 	| 0.199  	|
 
-    
 ### Code structure
 The main code is split across there three folders:
 * __preprocessing__ - contains utilities for text preprocessing implementing the pipeline through which the tweets will pass.
@@ -100,4 +99,4 @@ The main code is split across there three folders:
 
 
 
-
+For further details about the project read the report.pdf file.
